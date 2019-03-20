@@ -4,3 +4,5 @@ functions/*
 !functions/package.json
 !functions/tsconfig.json
 !functions/tslint.json
+package-lock.json
+*.cache
